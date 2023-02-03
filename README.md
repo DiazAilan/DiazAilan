@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DiazAilan
 - 👀 I’m interested in Javascript's frameworks
-- 🌱 I’m currently learning refactoring
+- 🌱 I’m currently reading Code Complete 
