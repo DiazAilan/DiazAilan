@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DiazAilan
 - 👀 I’m interested in Javascript's frameworks
-- 🌱 I’m currently reading Patterns of Enterprise Application Architecture 
+- 🌱 I’m currently reading Accelerate: The Science of Lean Software and DevOps
